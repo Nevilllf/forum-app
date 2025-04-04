@@ -172,6 +172,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by [Your Name]  
+Developed by [Nevil Findoriya]  
 GitHub: [https://github.com/Nevilllf](https://github.com/Nevilllf)
 
